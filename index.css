@@ -184,7 +184,7 @@ line-height: 1.2;
     flex-direction: column;
     align-items: flex-start; 
     justify-content: center; 
-    height: 630px; 
+    height: 600px; 
     gap: 18px;
     padding-left: 30px;
 }
@@ -194,7 +194,29 @@ line-height: 1.2;
     flex-direction: row;
 }
 
-.heroavatars{
+.socialproof p{
+    /* Text */
+
+width: 1371.83px;
+height: 30px;
+
+/* Text xl/Medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+text-align: center;
+
+/* Gray/600 */
+color: #475467;
+}
+
+.socialproof{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 
