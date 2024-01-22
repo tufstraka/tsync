@@ -1,4 +1,4 @@
-body {
+.hero {
     background-image: url('background.svg');
     background-repeat: no-repeat;
     background-size: cover;
@@ -219,8 +219,187 @@ color: #475467;
     align-items: center;
 }
 
+.frame23 p{
+ 
+
+width: 1168px;
+height: 28px;
+
+/* Text lg/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Blue/700 */
+color: #175CD3;
+
+}
+
+.frame23 h1{
+    /* Why choose ClearLink? */
+
+width: 1168px;
+height: 60px;
+
+/* Display lg/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 60px;
+/* identical to box height, or 125% */
+letter-spacing: -0.02em;
+
+/* Gray/800 */
+color: #1D2939;
+
+}
+
+.frame10 article{
+
+width: 700px;
+height: 64px;
+
+/* Display xs/Regular */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 32px;
+/* or 133% */
+
+/* Gray/500 */
+color: #667085;
+
+}
+
+.handrawnarrow{
+/* Vector */
+position: absolute;
+top: 900px;
+left: 900px;
+
+
+/* Blue dark / 700 */
+transform: rotate(-14.74deg);
+
+}
+
+.frame34{
+    /* Frame 34 */
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 60px 40px;
+
+margin: 0 auto;
+width: 1070px;
+height: 500px;
 
 
 
+
+
+}
+.frame10 {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 0px;
+gap: 10px; 
+margin-top: 50px;
+margin-left: 70px; 
+width: 1080px;
+height: 288px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+
+}
+
+.featuretext{
+
+
+}
+
+.frame34 article{
+    /* Supporting text */
+
+width: 360px;
+height: 112px;
+
+/* Text lg/Regular */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Gray/600 */
+color: #475467;
+
+
+
+
+}
+
+.frame34 h3{
+/* Text */
+
+width: 227px;
+height: 22px;
+
+/* Display xs/Semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+
+/* Gray/900 */
+color: #101828;
+
+
+
+
+}
+
+.testimonialsection {
+  
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 64px;
+    width: 1408px;
+    height: 556px;
+    font-size: 18px;
+    padding: 0px 32px;
+
+    
+}
+.frame39 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; 
+    justify-content: center; 
+    height: 100px; 
+
+}
 
 
