@@ -78,9 +78,9 @@ color: #667085;
     align-items: center;
 }
 
-.btn1, .btn2 {
+.btn1, .btn2, .btn13, .btn23 {
     padding: 14px 24px;
-    width: 167px;
+    width: 170px;
     height: 52px;
     box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
 
@@ -103,6 +103,15 @@ color: #667085;
 .btn2 {
     background: #175CD3;
     color: white;
+}
+.btn13 {
+    background: #FFFFFF;
+
+}
+.btn23{
+    background: #175CD3;
+    color: white;
+    width: 196px;
 }
 
 .frame9 article{
@@ -317,17 +326,19 @@ padding: 0px;
 gap: 10px; 
 margin-top: 50px;
 margin-left: 70px; 
-width: 1080px;
+width: 480px;
 height: 288px;
 
 
-/* Inside auto layout */
-flex: none;
-order: 0;
-flex-grow: 0;
 
-
-
+}
+.fq{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.fqp{
+    width: 600px;
 }
 
 .featuretext{
@@ -402,4 +413,96 @@ color: #101828;
 
 }
 
+.fq1{
+    /* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+justify-content: space-between;
+width: 600px;
+height: 204px;
+background: #F9FAFB;
+border: 1px solid #EAECF0;
+border-radius: 16px;
+}
+/* FAQ accordian item wrap */
+.fq1 article{
+    width: 510px;
+
+}
+.fqc{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    height: 80px;
+    
+
+}
+
+.frame38 {
+    display: flex;
+    flex-direction: row;
+    height: 800px;
+    width: 500px;
+}
+
+.frame40{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    margin: 0 auto;
+    width: 1080px;
+    height: 800px;
+    justify-content: center;
+    align-content: center;
+
+}
+.sco{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.frame61 {
+    display: flex;
+}
+.footerlink{
+    margin-right: 50px;
+}
+
+.logoandt{
+    display: flex;
+    flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2px;
+height: 145px;
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.frame62{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.t40hc1{
+
+display: flex;
+gap: 6px;
+
+
+
+
+}
+.frame3{
+    display: flex;
+}
 
