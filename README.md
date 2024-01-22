@@ -24,5 +24,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- Email: keithkadima@example.com
+- Email: keithkadima@gmail.com
 - GitHub: [tufstraka](https://github.com/tufstraka)
