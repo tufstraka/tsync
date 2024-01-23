@@ -237,44 +237,30 @@ color: #475467;
 
 width: 1168px;
 height: 28px;
-
-/* Text lg/Semibold */
 font-family: 'Inter';
 font-style: normal;
 font-weight: 600;
 font-size: 18px;
-line-height: 28px;
-/* identical to box height, or 156% */
+line-height: 78px;
 
-/* Blue/700 */
 color: #175CD3;
 
 }
 
 .frame23 h1{
-    /* Why choose ClearLink? */
+height: 30px;
 
-width: 1168px;
-height: 60px;
-
-/* Display lg/Semibold */
-font-family: 'Inter';
-font-style: normal;
 font-weight: 600;
 font-size: 48px;
-line-height: 60px;
-/* identical to box height, or 125% */
+line-height: 40px;
 letter-spacing: -0.02em;
-
-/* Gray/800 */
 color: #1D2939;
 
 }
 
 .frame10 article{
 
-width: 700px;
-height: 64px;
+height: 24px;
 
 /* Display xs/Regular */
 font-family: 'Inter';
