@@ -1,5 +1,9 @@
 body{
     overflow-x: hidden;
+    font-family: 'Inter';
+    font-style: normal;
+
+
 }
 
 .hero {
