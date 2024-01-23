@@ -259,7 +259,7 @@ color: #1D2939;
 }
 
 .frame10 article{
-
+width: 1000px;
 height: 24px;
 
 /* Display xs/Regular */
@@ -363,7 +363,7 @@ align-content: flex-start;
 padding: 0px;
 margin-top: 50px;
 margin-left: 40px; 
-width: 480px;
+width: 700px;
 height: 288px;
 
 
