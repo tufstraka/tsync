@@ -316,12 +316,14 @@ transform: rotate(-14.74deg);
     line-height: 4px;
 }
 .contenttest article{
-    color: #667085; 
-    font-size: 24px; 
-    font-family: Inter; 
-    font-weight: 400; 
-    line-height: 32px; 
-    word-wrap: break-word;
+width: 580px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+letter-spacing: -0.02em;
+color: #101828;
+
 }
 .contenttest{
     margin-left: 40px;
@@ -344,6 +346,19 @@ height: 500px;
     flex-direction: column;
     gap: 12px;
     margin-bottom: 5px;
+}
+
+.text p {
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+
+color: #475467;
+
+
 }
 
 .t40c {
@@ -479,12 +494,16 @@ border-radius: 16px;
 }
 
 .fqc article{
-    color: #667085; 
-    font-size: 14px; 
-    font-family: Inter; 
-    font-weight: 400; 
-    line-height: 32px; 
-    word-wrap: break-word;
+
+height: 112px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #475467;
+
+
 
 }
 
@@ -501,7 +520,7 @@ border-radius: 16px;
     align-items: flex-start;
     justify-content: space-between;
     width: 100vw;
-    height: 400px;
+    height: 500px;
     align-content: center;
 
 }
@@ -524,6 +543,29 @@ line-height: 24px;
 color: #667085;
 
 }
+.fq h3{
+
+height: 10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #101828;
+
+}
+.fqc h3{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+
+color: #101828;
+}
+
 .footerlink{
     margin-right: 50px;
 }
@@ -592,7 +634,21 @@ color: #667085;
     gap: 4px;
 }
 
+.t40hc1 p{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #475467;
+
+}
+
+.t40hc h3{
+font-weight: 520;
+font-size: 35px;
+
+color: #101828;
 
 
-
-
+}
